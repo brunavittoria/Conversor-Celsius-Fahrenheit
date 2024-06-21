@@ -60,7 +60,7 @@ select {
 
 
 .bt:hover {
-    background-color: rgb(41, 43, 153);
+    background-color: blueviolet;
     color: white;
     transition: 0.5s;
 }
@@ -76,7 +76,7 @@ input {
 }
 
 input:focus {
-    border-bottom: 2px solid blueviolet;
+    border-bottom: 2px solid blue;
 }
 
 input::-webkit-outer-spin-button,
